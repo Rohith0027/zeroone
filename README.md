@@ -24,3 +24,6 @@ These are the steps :-
               auth_username=mail@gmail.com(your mail)
               auth_password=yourpassword(generated password)
               force_sender=mail@gmail.com(your mail)
+              
+  For more understanding purpose follow this link:-
+              https://www.youtube.com/watch?v=TvaKz3wwvWY

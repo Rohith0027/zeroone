@@ -1,4 +1,4 @@
-This project is about chat system, which will also be having an encrypting and decrypting option to encrypt the message that will be sent.
+This project is about chat system.
 So there are certain steps to execute this project and also it is an on going project.
 This is project is done upto login system with otp verification and login.
 These are the steps :- 
